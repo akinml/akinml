@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anna</h1>
-<h3 align="center">I'm a social scientist with MA in Global Studies and a passion for data science. I love to tackle unconventional challenges and can make any team work!</h3>
+<h3 align="center">I'm a social scientist with MA in Global Studies and passion for data science. I love to tackle unconventional challenges and can make any team work!</h3>
 
 - 🔭 I’m currently working on [Ticket Controls in Berlin](ticketcontrolberlin.streamlit.app/)
 
