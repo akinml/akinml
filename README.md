@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Berlin Helps Ukraine](https://github.com/akinml/berlinhelpsukraine)
 
-- 👯 I’m looking to collaborate on **a secret project :D Write me to collaborate!**
-
 - 🤝 I’m looking for help with [Sound Modulation](https://github.com/akinml/buchla)
 
 <h3 align="left">Connect with me:</h3>
