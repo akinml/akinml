@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anna</h1>
 <h3 align="center">I'm a social scientist with MA in Global Studies and passion for data science. I love to tackle unconventional challenges and can make any team work!</h3>
 
-- 🔭 I’m currently working on [Berlin Helps Ukraine](https://github.com/akinml/berlin_helps_ukraine)
+- 🔭 I’m currently working on [Berlin Helps Ukraine](https://github.com/akinml/berlinhelpsukraine)
 
 - 👯 I’m looking to collaborate on **a secret project :D Write me to collaborate!**
 
