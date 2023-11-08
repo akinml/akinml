@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anna</h1>
 <h3 align="center">I'm a social scientist with MA in Global Studies and passion for data science. I love to tackle unconventional challenges and can make any team work!</h3>
 
-- 🔭 I’m currently working on [Berlin Helps Ukraine](https://github.com/akinml/berlinhelpsukraine)
-
+- I’m currently working on [Jokes Chatbot](https://github.com/akinml/jokeschatbot) together with other alumni of Le Wagon data science bootcamp.
+- Flirting with the idea to create a meaningful project using chat data [Berlin Helps Ukraine](https://github.com/akinml/berlinhelpsukraine). I want to understand how this data can assist to better undersand needs of relocated Ukrainians in Berlin. I am open for collaboration!
 - 🤝 I’m looking for help with [Sound Modulation](https://github.com/akinml/buchla)
 
 <h3 align="left">Connect with me:</h3>
